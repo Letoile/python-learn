@@ -3,8 +3,8 @@ Repo for learning specific features of Python
 
 ### :notebook: Rough plan
 
-0. Basics (Python Standard Library)
-1. Iterators/generators
+0. [basics (Python Standard Library)](basics/README.md)
+1. iterators/generators
 2. \*args, **kwargs
 3. lambda
 4. modules
